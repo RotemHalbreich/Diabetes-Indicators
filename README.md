@@ -1,4 +1,4 @@
-# Machine-Learning
+# *Machine Learning - Final Project*
 
 ![](Machine%20Learning%20Final%20Project/Slide1.PNG)
 ![](Machine%20Learning%20Final%20Project/Slide2.PNG)
